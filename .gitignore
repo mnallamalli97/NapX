@@ -1,0 +1,11 @@
+/local.properties
+/.idea/workspace.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/libraries
+.DS_Store
+/build
+
+
+.gradle
+libraries/opencv/build
